@@ -1,0 +1,20 @@
+{
+	"folders":
+	[
+		{
+			"path": "Drivers"
+		},
+		{
+			"path": "Inc"
+		},
+		{
+			"path": "MDK-ARM"
+		},
+		{
+			"path": "Middlewares"
+		},
+		{
+			"path": "Src"
+		}
+	]
+}
